@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66065341702",
+    "project_id": "quiz-adf46",
+    "storage_bucket": "quiz-adf46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66065341702:android:7c0df0e10680eeaedc5287",
+        "android_client_info": {
+          "package_name": "com.svnit.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66065341702-rmm7814o5k4hrladl5j2eo85c4cck57d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_CHTMJlKT-py0pg-_JMdoybucnZi51hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66065341702-rmm7814o5k4hrladl5j2eo85c4cck57d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
